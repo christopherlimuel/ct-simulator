@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
-from streamlit_cropper import st_cropper
 from PIL import Image
 from skimage.data import shepp_logan_phantom
 from utils import *
